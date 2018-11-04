@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- test folder/test-page.md
 - index.md
