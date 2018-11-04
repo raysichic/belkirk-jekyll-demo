@@ -13,9 +13,10 @@ services:
 - heading: azaz
   description: www
   icon: "/uploads/2018/02/17/bridge3.jpg"
-show_news: false
-partners: []
-show_staff: false
+show_news: true
+partners:
+- "/uploads/2018/02/17/building.jpg"
+show_staff: true
 published: false
 
 ---
