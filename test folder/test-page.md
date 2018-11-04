@@ -17,6 +17,5 @@ show_news: true
 partners:
 - "/uploads/2018/02/17/building.jpg"
 show_staff: true
-published: false
 
 ---
